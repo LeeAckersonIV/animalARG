@@ -1,5 +1,5 @@
 # Nextflow Pipeline for Estimating Antimicrobial Resistance Gene Abundance in Metagenomic Samples
-The analytical framework developed here is discussed extensively here:  
+This analytical framework is discussed extensively here:  
 
     Ackerson,Leland K.,,IV. Analytical Framework for Estimating Antimicrobial Resistance Gene Abundance in Metagenomic Samples  
         of Animal Agriculture Origin, Michigan State University, United States -- Michigan, 2023. ProQuest
