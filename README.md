@@ -4,8 +4,7 @@ The analytical framework developed here is discussed extensively here:
     Ackerson,Leland K.,,IV. Analytical Framework for Estimating Antimicrobial Resistance Gene Abundance in Metagenomic Samples  
         of Animal Agriculture Origin, Michigan State University, United States -- Michigan, 2023. ProQuest
         
-Visit animalARG.org to visualize global spatiotemporal trends of ARGs in animal agriculture estimated from previously processed samples.  
-NOTE: This site is still being developed and currently routes you to our Lab's webpage, check back in the future for updates!
+Visit animalARG.org to visualize global spatiotemporal trends of ARGs in animal agriculture estimated from previously processed samples. NOTE: This site is still being developed and currently routes you to our Lab's webpage, check back in the future for updates!
 
 ## Quantification and Estimation of Antimicrobial Resistance Genes from Shotgun Metagenomic Sequence Data
 ### Methodology
