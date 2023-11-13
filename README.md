@@ -11,7 +11,7 @@ This analytical framework is discussed extensively here:
 ~Results from quality control analysis are deposited in the 'QCmetrics' folder upon completion of the workflow proccesses.  
 ~Adapter trimming and read quality filtering are performed using BBDuk (BBTools).
 
-#### 2.  Antibotic Resistant Gene Mapping
+#### 2.  Antimicrobial Resistance Gene Mapping
 ~Reference Database: The Comprehensive Antibiotic Resistance Database (CARD).  
 ~Alignement Software: BWA MEM
 
